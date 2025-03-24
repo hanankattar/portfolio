@@ -10,12 +10,13 @@ I'm passionate about **Cybersecurity** and always eager to learn new technologie
 - 🎓 **Major:** Computer Science  
 - 📍 **Location:** Tripoli, Lebanon  
 - 🔐 **Interested in:** Cybersecurity, Ethical Hacking, Network Security  
-- 📖 Currently learning and exploring new cybersecurity concepts  
+- 📖 Currently learning at the second year of bachlor
+-   i am a member in ieee institution
 
 ---
 
 ## 🛠️ Skills  
-- **Languages:** C# (Experienced), Python (Currently Learning)  
+- **Languages:** C# (Experienced).
 - **Database:** MySQL  
 
 
